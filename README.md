@@ -14,3 +14,8 @@ This is my new dmo reprository today.
 
 * item1
 * itme2
+
+## LASSO Plot
+
+A plot I made for the LASSO
+![Figure of a LASSO Plot](figures/roc_lasso.png)
